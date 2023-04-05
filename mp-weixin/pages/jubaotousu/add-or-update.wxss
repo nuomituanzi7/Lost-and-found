@@ -1,0 +1,83 @@
+.container.data-v-e609472a {
+  padding: 20rpx
+}
+
+.content.data-v-e609472a:after {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  content: "";
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 50%
+}
+
+textarea.data-v-e609472a {
+  border: 1rpx solid #eee;
+  border-radius: 20rpx;
+  padding: 20rpx
+}
+
+.title.data-v-e609472a {
+  width: 180rpx
+}
+
+.avator.data-v-e609472a {
+  width: 150rpx;
+  height: 60rpx
+}
+
+.right-input.data-v-e609472a {
+  flex: 1;
+  text-align: left;
+  padding: 0 24rpx
+}
+
+.cu-form-group.active.data-v-e609472a {
+  justify-content: space-between
+}
+
+.btn.data-v-e609472a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 20rpx 0
+}
+
+.cu-form-group.data-v-e609472a {
+  padding: 0 24rpx;
+  background-color: initial;
+  min-height: inherit
+}
+
+.cu-form-group+.cu-form-group.data-v-e609472a {
+  border: 0
+}
+
+.cu-form-group uni-input.data-v-e609472a {
+  padding: 0 30rpx
+}
+
+.uni-input.data-v-e609472a {
+  padding: 0 30rpx
+}
+
+.cu-form-group uni-textarea.data-v-e609472a {
+  padding: 30rpx;
+  margin: 0
+}
+
+.cu-form-group uni-picker.data-v-e609472a::after {
+  line-height: 88rpx
+}
+
+.select .uni-input.data-v-e609472a {
+  line-height: 88rpx
+}
+
+.input .right-input.data-v-e609472a {
+  line-height: 88rpx
+}
